@@ -1,7 +1,5 @@
-## :sunglasses:
-
 ## blueBerry - Bluetooth Serial Communication
-<!-- 이미지 삽입 -->
+[![badge](./google-play-badge.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)
 
 ## Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
