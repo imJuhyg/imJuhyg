@@ -3,8 +3,6 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imJuhyg&repo=Android-blueBerry-remotecontroller)](https://github.com/imJuhyg/Android-blueBerry-remotecontroller)
 
-
-
 ## Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FC4C02.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -17,6 +15,9 @@
 ![Android Studio](https://img.shields.io/badge/Coroutines-C70D2C.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Retrofit-428813.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/glide-5E6AD2.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
+
+## Blog
+[![Notion](./notion.png)](https://cs-docs.notion.site/Tech-Blog-e2c25b7215db4b7f84b1a4a558676b4b)
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjuhyg)](https://solved.ac/limjuhyg/)
