@@ -1,5 +1,6 @@
 ## blueBerry - Bluetooth Serial Communication
-[![badge](./google-play-badge-1.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)  
+[![badge](./google-play-badge.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)  
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imJuhyg&repo=Android-blueBerry-remotecontroller)](https://github.com/imJuhyg/Android-blueBerry-remotecontroller)
 
 
