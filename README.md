@@ -1,5 +1,5 @@
 ## blueBerry - Bluetooth Serial Communication
-[![badge](./google-play-badge.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)
+[![badge](./google-play-badge-1.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)
 
 ## Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
