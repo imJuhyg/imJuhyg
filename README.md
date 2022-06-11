@@ -17,7 +17,7 @@
 ![Android Studio](https://img.shields.io/badge/glide-5E6AD2.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 ## Blog
-[![Notion](./notion.png)](https://cs-docs.notion.site/Tech-Blog-e2c25b7215db4b7f84b1a4a558676b4b)
+[![Notion](./notion-1.png)](https://cs-docs.notion.site/Tech-Blog-e2c25b7215db4b7f84b1a4a558676b4b)
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjuhyg)](https://solved.ac/limjuhyg/)
