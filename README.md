@@ -1,8 +1,3 @@
-## blueBerry - Bluetooth Serial Communication
-[![badge](./google-play-badge-1.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)  
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imJuhyg&repo=Android-blueBerry-remotecontroller)](https://github.com/imJuhyg/Android-blueBerry-remotecontroller)
-
 ## Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FC4C02.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -23,6 +18,7 @@
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limjuhyg)](https://solved.ac/limjuhyg/)
 
-
-## GitHub Stats
-![imJuhyg's github stats](https://github-readme-stats.vercel.app/api?username=imJuhyg&show_icons=true&theme=cobalt)
+## blueBerry - Bluetooth Serial Communication
+[![badge](./google-play-badge-1.png)](https://play.google.com/store/apps/details?id=com.limjuhyg.blueberry)  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imJuhyg&repo=Android-blueBerry-remotecontroller)](https://github.com/imJuhyg/Android-blueBerry-remotecontroller)
